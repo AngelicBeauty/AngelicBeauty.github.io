@@ -12,7 +12,6 @@
 </head>
 <body>
   <iframe src="https://giphy.com/embed/EIiJp9cQ3GeEU" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/please-construction-patient-EIiJp9cQ3GeEU"></a></p>
-    
-    <p class="text>Hi there! This page is currently under construction, keep checking back for updates!</p>
+   <p class="text>Hi there! This page is currently under construction, keep checking back for updates!</p>
 </body>
 
