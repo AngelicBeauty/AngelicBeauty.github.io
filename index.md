@@ -88,7 +88,7 @@ body {
   border: none;
   color: white;
   padding: 22px 1px;
-  width: 200px;
+  width: 300px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
