@@ -23,7 +23,7 @@ body {
   overflow: auto;
   background-image: url("Logo.jpg");
   float: left;
-  padding: 16px 30px;
+  padding: 30px 16px;
 }
 
 .navbar a {
