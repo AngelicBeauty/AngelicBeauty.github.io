@@ -88,17 +88,15 @@ body {
   border: none;
   color: white;
   padding: 22px 1px;
-  width: 700px;
+  width: 200px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   vertical-align: baseline;
-  font-size: 16px;
-  margin: 10px 0;
+  font-size: 17x;
   cursor: pointer;
   background-color: #8a8888;
   font-family: 'Josefin Sans', sans-serif;
-  width: 80px;
 }
 
 .button1 {
