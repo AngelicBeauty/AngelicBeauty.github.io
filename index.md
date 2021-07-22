@@ -304,9 +304,11 @@ html {
     <br>
     <br>
 
-    <p class="mapText">Find Us</p> <p class="contactTitle">Contact Us</p>
+    <p class="mapText">Find Us</p> 
     <br>
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2292.698648664158!2d-1.3754983842670006!3d54.92576006293772!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487e6669f43ca9ab%3A0x588964aa5a2136f4!2s35%20Mere%20Knolls%20Rd%2C%20Roker%2C%20Sunderland%20SR6%209LG!5e0!3m2!1sen!2suk!4v1626106107593!5m2!1sen!2suk" width="300" height="300" style="border:0;" allowfullscreen="" loading="lazy" class="Map"></iframe> <p class="contactText">Follow and Contact Us on Social Media or call at 07759 530 348</p> 
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2292.698648664158!2d-1.3754983842670006!3d54.92576006293772!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487e6669f43ca9ab%3A0x588964aa5a2136f4!2s35%20Mere%20Knolls%20Rd%2C%20Roker%2C%20Sunderland%20SR6%209LG!5e0!3m2!1sen!2suk!4v1626106107593!5m2!1sen!2suk" width="300" height="300" style="border:0;" allowfullscreen="" loading="lazy" class="Map"></iframe> 
+    <p class="contactTitle">Contact Us</p>
+    <p class="contactText">Follow and Contact Us on Social Media or call at 07759 530 348</p> 
     <a href="https://www.instagram.com/angelicbeauty2020/" class="fa fa-instagram"></a>
     <a href="https://www.facebook.com/angelicbeauty2020/" class="fa fa-facebook"></a> 
     <p>Opening Hours
