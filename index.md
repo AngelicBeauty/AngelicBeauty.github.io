@@ -337,7 +337,7 @@ html {
     <br>
     <br>
 
-    <h5 class="title" id="Menu">Menu</h5>
+    <p class="title" id="Menu">Menu</p>
     <p class="menuText">Check out our available services below and click the button to book your appointment now</p>
     <br>
     <br>
