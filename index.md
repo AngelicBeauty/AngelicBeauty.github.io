@@ -346,7 +346,7 @@ html {
     <p class="menuText">Check out our available services below and click the button to book your appointment now</p>
     <br>
     <br>
-    <a href="https://bookings.gettimely.com/angelicbeauty2/book?uri=https%3A%2F%2Fbook.gettimely.com%2FBooking%2FService%3Fobg%3D771bdca0-4184-4c34-ae28-8360085293da" class="buttonMenu">Book Now</a>
+    <a href="https://bookings.gettimely.com/angelicbeauty2/bb/book" class="buttonMenu">Book Now</a>
     <br>
     <br>
     <img id="myImg" src="PriceList.jpg" alt="Price Lists" style="width:100%;max-width:300px">
