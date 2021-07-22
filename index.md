@@ -19,7 +19,7 @@ body {
   background-color: none;
   position: fixed;
   top: 0;
-  width: 100%;
+  width: 1000px;
   overflow: auto;
   background-image: url("Logo.jpg");
   float: left;
