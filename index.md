@@ -33,6 +33,7 @@ body {
   text-decoration: none;
   font-size: 17px;
   font-family: 'Josefin Sans', sans-serif;
+  background-color: red;
 }
 
 .navbar a:hover {
