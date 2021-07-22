@@ -87,12 +87,12 @@ body {
 .buttonMenu {
   border: none;
   color: white;
-  height: 20px;
+  height: 50px;
   width: 350px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  vertical-align: right;
+  vertical-align: baseline;
   font-size: 16px;
   margin: 10px 0;
   cursor: pointer;
