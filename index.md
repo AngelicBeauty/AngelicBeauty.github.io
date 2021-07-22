@@ -87,7 +87,8 @@ body {
 .buttonMenu {
   border: none;
   color: white;
-  padding: 16px 22px;
+  padding: 22px 1px;
+  width: 200px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
