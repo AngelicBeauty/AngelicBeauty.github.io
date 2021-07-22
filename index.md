@@ -21,6 +21,7 @@ body {
   top: 0;
   width: 100%;
   background-image: url("Logo.jpg");
+  float: left;
 }
 
 .navbar a {
